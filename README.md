@@ -15,3 +15,9 @@ The Diabetes Prediction Dataset from National Institute of Diabetes and Digestiv
 ](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes)https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
 
 # Questions 
+
+1.print the first  10 rows in the data.
+2.print the last 10 rows in the data. 
+3.Create a histogram depicting the distribution of the "Glucose" column data.
+4.Create a histogram depicting the distribution of the "BMI" column data.
+5.Create a heatmap to visualize the correlation between numerical columns in the DataFrame.
