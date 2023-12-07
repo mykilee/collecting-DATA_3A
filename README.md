@@ -9,4 +9,5 @@ collecting-DATA_3A--assignment3A
 
 ## The information of the dataset 
 
-The dataset that I'm working is taken from Hannah Andersen and Matt Daniels's Pudding essay, "Film Dialogue from 2,000 screenplays, Broken Down by Gender and Age". The dataset provides information about 2,000 films from 1925 to 2015, including characters’ names, genders, ages, how many words each character spoke in each film, the release year of each film, and how much money the film grossed. They included character gender information because they wanted to contribute data to a broader conversation about how "white men dominate movie roles."
+The Diabetes Prediction Dataset, a valuable resource for researchers, data scientists, and medical professionals interested in the field of diabetes risk assessment and prediction. This dataset contains a diverse range of health-related attributes, meticulously collected to aid in the development of predictive models for identifying individuals at risk of diabetes. By sharing this dataset, we aim to foster collaboration and innovation within the data science community, leading to improved early diagnosis and personalized treatment strategies for diabetes.[
+](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes)https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
