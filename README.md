@@ -3,9 +3,9 @@ collecting-DATA_3A--assignment3A
 
 ## Healthcare-Diabetes.csv
 
-| title | release_year | character | gender | words | proportion_of_dialogue | age | gross | script_id | 
-|-------------|--------|-----|-----|--------------|-------------|----------------|-------------------|-------------------|
-| film's name | the releasing year of the film | character | character's gender | the number of words of the character speak in the film | the proportion of words of the character spoke in the whole film | the age of the character | how much money the film earned | the script id of the character |
+| Id | Pregnancies | Glucose | BloodPressure | SkinThickness | Insulin | BMI | DiabetesPedigreeFunction | age | outcome |
+|-------------|--------|-----|-----|--------------|-------------|----------------|-------------------|-------------------|------|
+| Unique identifier for each data entry | Number of times pregnant | Plasma glucose concentration over 2 hours in an oral glucose tolerance test | Diastolic blood pressure (mm Hg) | Triceps skinfold thickness (mm) | 2-Hour serum insulin (mu U/ml) | Body mass index (weight in kg / height in m^2) | Diabetes pedigree function, a genetic score of diabetes | Age in years | Binary classification indicating the presence (1) or absence (0) of diabetes |
 
 ## The information of the dataset 
 
